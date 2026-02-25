@@ -36,6 +36,6 @@ I am a highly capable modeler with a strong foundation in scientific computing:
 * **Programming & Parallel Computing:** Python, Fortran, C, MPI, and currently expanding my toolkit with Julia.
 
 ### Education
-* **Ph.D. in Physical Oceanography** | Ocean University of China *(In Progress)*
-* **M.S. in Physical Oceanography** | Ocean University of China
-* **B.S. in Marine Science** | Ocean University of China
+* **Ph.D. in Physical Oceanography**, Ocean University of China *(In Progress)*
+* **M.S. in Physical Oceanography**, Ocean University of China
+* **B.S. in Marine Science**, Ocean University of China
