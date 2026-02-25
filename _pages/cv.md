@@ -11,35 +11,34 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+* Ph.D. in Physical Oceanography, Ocean University of China, 2026 (expected)
+* M.S. in Physical Oceanography, Ocean University of China
+* B.S. in Marine Science, Ocean University of China
 
-Work experience
+Research Experience
 ======
-* Spring 2024: Academic Pages Collaborator
-  * GitHub University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
+* Ph.D. Researcher 
+  * Ocean University of China
+  * Focus: Investigating mesoscale air-sea interaction and ocean heat uptake in the context of global warming using Earth system models. Developing the Hybrid Coupled Regional Ocean Modeling System (HC-ROMS).
+  * Supervisor: Prof. Zhao Jing
 
-* Fall 2015: Research Assistant
-  * GitHub University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
-
-* Summer 2015: Research Assistant
-  * GitHub University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* Master's Researcher
+  * Ocean University of China
+  * Focus: Parameterization of wind-driven turbulent vertical mixing and analyzing the role of global cyclonic/anticyclonic eddies in regulating near-inertial internal waves using eddy-resolving climate models.
+  * Supervisor: Prof. Zhao Jing
   
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* Numerical Models
+  * CESM
+  * ROMS
+  * HC-ROMS (Developer)
+* Programming & Parallel Computing
+  * Python
+  * Fortran
+  * C
+  * MPI
+  * Julia
 
 Publications
 ======
@@ -47,18 +46,8 @@ Publications
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
-Talks
+Presentations & Conferences
 ======
   <ul>{% for post in site.talks reversed %}
     {% include archive-single-talk-cv.html  %}
   {% endfor %}</ul>
-  
-Teaching
-======
-  <ul>{% for post in site.teaching reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
