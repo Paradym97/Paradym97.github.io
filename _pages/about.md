@@ -1,8 +1,14 @@
 ---
-layout: about
-title: "About me"
+# layout: about
+# title: "About me"
+# permalink: /
+# author_profile: true
 permalink: /
+title: "Academic Pages is a ready-to-fork GitHub Pages template for academic personal websites"
 author_profile: true
+redirect_from: 
+  - /about/
+  - /about.html
 ---
 
 I am a Physical Oceanography Ph.D. candidate in my final year at the Ocean University of China (OUC), advised by Prof. Zhao Jing. 
