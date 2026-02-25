@@ -5,8 +5,8 @@ var addressPoints = [
     103.8572572
   ],
   [
-    "Talk 1 on Relevant Topic in Your Field<br />UC San Francisco, Department of Testing; San Francisco, CA, USA",
-    37.7879363,
-    -122.4075201
+    "Poster Presentation: Enhanced Ocean Heat Uptake by Mesoscale Eddies in a Community Earth System Model<br />Ocean Sciences Meeting 2026; Glasgow, Scotland, UK",
+    55.861155,
+    -4.2501687
   ]
 ];
