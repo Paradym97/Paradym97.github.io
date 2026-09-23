@@ -9,10 +9,10 @@
 # Basic Site Settings
 locale                   : "en-US"
 site_theme               : "default" # The available themes options are "default", "air", "sunrise", "mint", "dirt" and "contrast"
-title                    : "Man Yuan - Physical Oceanography"
+title                    : "Man Yuan - Physical Oceanography & Statistics"
 title_separator          : "-"
 name                     : &name "Man Yuan"
-description              : &description "Ph.D. Candidate at Ocean University of China. Actively seeking Postdoctoral opportunities in ocean/climate modeling."
+description              : &description "Postdoctoral Researcher at the School of Mathematical Sciences, Peking University. Statistical methods for ocean and climate change research."
 url                      : "https://Paradym97.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "Paradym97/Paradym97.github.io"
@@ -25,11 +25,11 @@ author:
   avatar           : "profile.png"
   name             : "Man Yuan"
   pronouns         : "he/him"  
-  bio              : "Physical Oceanography Ph.D. Candidate seeking Postdoctoral opportunities."
-  location         : "Qingdao, China"
-  employer         : "Ocean University of China"
+  bio              : "Postdoc at Peking University. Statistical methods for ocean and climate change research."
+  location         : "Beijing, China"
+  employer         : "Peking University"
   uri              : 
-  email            : "yuanman@stu.ouc.edu.cn"
+  email            : "yuanman@math.pku.edu.cn"
 
   # Academic websites
   academia         : # URL

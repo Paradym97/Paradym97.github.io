@@ -11,12 +11,17 @@ redirect_from:
 
 Education
 ======
-* Ph.D. in Physical Oceanography, Ocean University of China, 2026 (expected)
+* Ph.D. in Physical Oceanography, Ocean University of China, 2026
 * M.S. in Physical Oceanography, Ocean University of China
 * B.S. in Marine Science, Ocean University of China
 
 Research Experience
 ======
+* Postdoctoral Researcher (2026 – present)
+  * [School of Mathematical Sciences](https://math.pku.edu.cn/), Peking University
+  * Focus: Applying statistical methods to ocean and climate change research.
+  * Supervisor: [Prof. Yumou Qiu](https://yumou.org/)
+
 * Ph.D. Researcher 
   * Ocean University of China
   * Focus: Investigating mesoscale air-sea interaction and ocean heat uptake in the context of global warming using Earth system models. Developing the Hybrid Coupled Regional Ocean Modeling System (HC-ROMS).
