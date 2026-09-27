@@ -7,6 +7,6 @@ excerpt: 'This study utilizes CESM to investigate the qualitative impact of meso
 date: 2025-11-21
 venue: 'Geophysical Research Letters'
 paperurl: 'https://doi.org/10.1029/2025GL116994'
-citation: 'Yuan, M., Zhao, J., Wang, H., Wang, S., & Wu, L. (2025). &quot;Enhanced Ocean Heat Uptake by Mesoscale Eddies in a Community Earth System Model.&quot; <i>Geophysical Research Letters</i>.'
+citation: 'Yuan, M., Jing, Z., Wang, H., Wang, S., & Wu, L. (2025). &quot;Enhanced Ocean Heat Uptake by Mesoscale Eddies in a Community Earth System Model.&quot; <i>Geophysical Research Letters</i>, 52(22), e2025GL116994.'
 ---
 This paper is currently being presented as a poster at the Ocean Sciences Meeting 2026 in Glasgow.
